@@ -24,6 +24,7 @@
 
 | Name | URL | Description |
 |------|-----|-------------|
+| AMZS | [amzs.site](https://www.amzs.site) | An online platform that offers tools, resources, and services to help Amazon sellers grow their businesses |
 | Flapen | [flapen.com](https://flapen.com) | Free real-time dashboard to monitor Amazon category changes in 19 countries and 215 categories |
 | Advigator | [advigator.com](https://www.advigator.com) | Amazon Advertising Software |
 | AiHello AutoPilot | [aihello.com](https://www.aihello.com/) | Amazon PPC Ads Automation Software |
